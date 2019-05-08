@@ -1,0 +1,14 @@
+body{
+
+	background-color: hsl(278, 1%, 87%);
+}
+#squirrel1{
+	height: 300px;
+	width: 400px;
+	position: absolute;	
+	margin-top:23%;
+
+}
+/*.squirrel2{
+	height: 300px
+}
